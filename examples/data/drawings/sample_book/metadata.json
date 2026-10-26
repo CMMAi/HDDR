@@ -1,0 +1,27 @@
+[
+  {
+    "DrawingPage": 1,
+    "DrawingTitle": "封面",
+    "DrawingNumber": "GE-000"
+  },
+  {
+    "DrawingPage": 2,
+    "DrawingTitle": "圖目錄",
+    "DrawingNumber": "GE-001"
+  },
+  {
+    "DrawingPage": 3,
+    "DrawingTitle": "RC擋土牆配筋圖",
+    "DrawingNumber": "G-101"
+  },
+  {
+    "DrawingPage": 4,
+    "DrawingTitle": "全套管基樁配筋詳圖",
+    "DrawingNumber": "S-201"
+  },
+  {
+    "DrawingPage": 5,
+    "DrawingTitle": "明溝標準斷面圖",
+    "DrawingNumber": "D-301"
+  }
+]

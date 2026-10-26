@@ -1,0 +1,26 @@
+{
+  "construction": "示範區段徵收公共工程",
+  "form": "明溝工程施工抽查紀錄表",
+  "position": "D1 明溝",
+  "ground_truth_page": "D-301",
+  "check_items": [
+    {
+      "check_item": "鋼筋組立",
+      "check_standard": "主筋D13@0.20，保護層5cm",
+      "check_standard_gt": "主筋D13@0.25，保護層5cm",
+      "origin": "",
+      "compliance_with_regulations": "",
+      "advised_standard": "",
+      "reasoning": ""
+    },
+    {
+      "check_item": "洩水孔設置",
+      "check_standard": "洩水孔間距@3.00m",
+      "check_standard_gt": "洩水孔間距@3.00m",
+      "origin": "",
+      "compliance_with_regulations": "",
+      "advised_standard": "",
+      "reasoning": ""
+    }
+  ]
+}

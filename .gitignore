@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.coverage
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+
+# Experiment outputs
+output/*
+!output/.gitkeep
+
+# Environment / secrets
+.env
+
+# Data (drawings, inspection forms) — not distributed; only the shipped detector weights are tracked
+/data/
+*.pdf
+*.pt
+!/weights/*.pt

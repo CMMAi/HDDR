@@ -1,0 +1,26 @@
+{
+  "construction": "示範道路新建工程",
+  "form": "RC擋土牆工程施工抽查紀錄表",
+  "position": "W1 擋土牆",
+  "ground_truth_page": "G-101",
+  "check_items": [
+    {
+      "check_item": "★基礎鋼筋及模板組立-主筋直徑、間距",
+      "check_standard": "編號S1：依設計圖主筋直徑=16mm、間距=20cm",
+      "check_standard_gt": "編號S1：依設計圖主筋直徑=22mm、間距=20cm",
+      "origin": "",
+      "compliance_with_regulations": "",
+      "advised_standard": "",
+      "reasoning": ""
+    },
+    {
+      "check_item": "★基礎鋼筋及模板組立-主筋直徑、間距、長度",
+      "check_standard": "編號S2：依設計圖主筋直徑=16mm、間距=20cm、長度=200cm",
+      "check_standard_gt": "編號S2：依設計圖主筋直徑=16mm、間距=20cm、長度=200cm",
+      "origin": "",
+      "compliance_with_regulations": "",
+      "advised_standard": "",
+      "reasoning": ""
+    }
+  ]
+}

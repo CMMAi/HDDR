@@ -1,0 +1,26 @@
+{
+  "construction": "示範橋梁新建工程",
+  "form": "全套管基樁施工抽查紀錄表",
+  "position": "P1 橋墩",
+  "ground_truth_page": "S-201",
+  "check_items": [
+    {
+      "check_item": "★基樁樁徑及樁長",
+      "check_standard": "L=30m;D=1.2m",
+      "check_standard_gt": "L=35m;D=1.2m",
+      "origin": "",
+      "compliance_with_regulations": "",
+      "advised_standard": "",
+      "reasoning": ""
+    },
+    {
+      "check_item": "★鋼筋籠加工組合-搭接長度",
+      "check_standard": "依設計圖主筋搭接長度≧120cm",
+      "check_standard_gt": "依設計圖主筋搭接長度≧120cm",
+      "origin": "",
+      "compliance_with_regulations": "",
+      "advised_standard": "",
+      "reasoning": ""
+    }
+  ]
+}
